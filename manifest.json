@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Save tweet",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "twitter.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
